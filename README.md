@@ -9,8 +9,8 @@ Install required dependency package from the source code
  
 ### 2.2 Run the code
 for basic supervised model(detailed setting depend on your implementation environment)：
-<p>python train.py</p>
+```python train.py```
 for self-supervised model(detailed setting depend on your implementation environment)：
-<p>python ssl_train.py</p>
+```python ssl_train.py```
 
 More details and complete code will be released once our paper is accepted.
