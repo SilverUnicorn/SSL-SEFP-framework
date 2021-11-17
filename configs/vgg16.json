@@ -1,0 +1,14 @@
+{
+  "model": "vgg16",
+  "batch_size": 512,
+  "image_size": 96,
+  "crop_size": 96,
+  "normalize": "True",
+  "lr": 0.001,
+  "momentum": 0.9,
+  "data_path_train": "/home/jzj/projects/medical/pcam/dataset/img_70/train_gamma2/",
+  "data_path_valid": "/home/jzj/projects/medical/pcam/dataset/img/val_gamma2/",
+  "data_path_test": "/home/jzj/projects/medical/pcam/dataset/img/test_gamma2/",
+  "epoch": 300,
+  "log_every": 5
+}
